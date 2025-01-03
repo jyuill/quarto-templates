@@ -39,7 +39,7 @@ To use in Quarto project, simply:
 1.  Terminal: **quarto use template jyuill/quarto-templates/basic-eda**
 2.  Automatically checks for github repo and copies files in directory
 3.  Will prompt for folder name \> renames the original template.qmd file with folder name
-4.  Edit and develop as needed
+4.  Edit and develop as needed, based on example content here
 
 ## Get Data
 
