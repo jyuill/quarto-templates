@@ -14,8 +14,9 @@ Collection of preset templates for quarto documents
 1.  In your Quarto project \> Terminal.
 2.  Run the following command to add the template to your project:
     1.   **`quarto template add jyuill/quarto-templates/<folder of template>`**
-    2.  (will automatically look in github for the folder)
-3.  Provide folder name when prompted.
-4.  The template will be added to your project and you can use it in your Quarto project.
+    2.  (RStudio will automatically look in github for the folder for downloading)
+3.  Terminal: Provide folder name when prompted.
+4.  The files in the github template folder will be added to your project in the new folder, with the template.qmd renamed to match the folder name.
+5.  Use the template in your Quarto project.
 
 **That's it!** You can get more complicated by incorporating styling, developing more complete extensions, but that is the basic idea. Works great for simple templates that help with consistency and quick start.
