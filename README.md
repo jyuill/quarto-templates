@@ -17,6 +17,6 @@ Collection of preset templates for quarto documents
     2.  (RStudio will automatically look in github for the folder for downloading)
 3.  Terminal: Provide folder name when prompted.
 4.  The files in the github template folder will be added to your project in the new folder, with the template.qmd renamed to match the folder name.
-5.  Use the template in your Quarto project.
+5.  Use the template file as starting point in your Quarto project.
 
 **That's it!** You can get more complicated by incorporating styling, developing more complete extensions, but that is the basic idea. Works great for simple templates that help with consistency and quick start.
