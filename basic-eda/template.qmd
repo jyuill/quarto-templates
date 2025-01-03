@@ -1,5 +1,5 @@
 ---
-title: "Quarto Template"
+title: "Quarto Template: Basic EDA"
 author: "JY"
 date: last-modified
 format: 
@@ -24,11 +24,22 @@ source('_common.R')
 
 ## Intro
 
-\[a template based on exploratory data analysis. use to get started and edit as necessary for purposes.\]
+\[a template for basic exploratory data analysis. use to get started and edit as necessary for purposes.\]
 
 ::: callout-note
-\[Requires \_common_template.R file in same directory (or change source command)\]
+\[Requires \_common.R file in same directory (or change source command)\]
 :::
+
+### Usage
+
+Source file is maintained in github repo at [github.com/jyuill/quarto-templates/basic-eda](https://github.com/jyuill/quarto-templates/tree/714824c70e4e29e329922f9e3a58815bbd0b1f03/basic-eda).
+
+To use in Quarto project, simply:
+
+1.  Terminal: **quarto use template jyuill/quarto-templates/basic-eda**
+2.  Automatically checks for github repo and copies files in directory
+3.  Will prompt for folder name \> renames the original template.qmd file with folder name
+4.  Edit and develop as needed
 
 ## Get Data
 
