@@ -20,3 +20,8 @@ Collection of preset templates for quarto documents
 5.  Use the template file as starting point in your Quarto project.
 
 **That's it!** You can get more complicated by incorporating styling, developing more complete extensions, but that is the basic idea. Works great for simple templates that help with consistency and quick start.
+
+## Next Steps
+
+-   table examples: gt, others
+-   tabbed setup
