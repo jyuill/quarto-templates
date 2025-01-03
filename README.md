@@ -12,8 +12,9 @@ Collection of preset templates for quarto documents
 ## To use a template:
 
 1.  In your Quarto project \> Terminal.
-2.  Run the following command to add the template to your project: **`quarto template add jyuill/quarto-templates/<folder of template>`**
-    1.  (will automatically look in github for the folder)
+2.  Run the following command to add the template to your project:
+    1.   **`quarto template add jyuill/quarto-templates/<folder of template>`**
+        1.  (will automatically look in github for the folder)
 3.  Provide folder name when prompted.
 4.  The template will be added to your project and you can use it in your Quarto project.
 
